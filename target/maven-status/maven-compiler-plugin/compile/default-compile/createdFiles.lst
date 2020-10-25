@@ -1,0 +1,16 @@
+org\ramaniuk\domain\User.class
+org\ramaniuk\App.class
+org\ramaniuk\service\ServiceException.class
+org\ramaniuk\config\SpringConfig.class
+org\ramaniuk\mapper\UserMapper.class
+org\ramaniuk\service\UserServiceImpl.class
+org\ramaniuk\dao\DaoException.class
+org\ramaniuk\service\UserService.class
+org\ramaniuk\dao\EntityDao.class
+org\ramaniuk\controller\UserController.class
+org\ramaniuk\config\WebAppInitializer.class
+org\ramaniuk\dao\UserDao.class
+org\ramaniuk\config\WebAppConfig.class
+org\ramaniuk\domain\Role.class
+org\ramaniuk\domain\Entity.class
+org\ramaniuk\repository\UserDaoImpl.class

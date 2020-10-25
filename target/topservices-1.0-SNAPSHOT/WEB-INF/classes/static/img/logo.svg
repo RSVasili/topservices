@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="180px"
+   height="60px"
+   viewBox="0 0 180 60"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs5160" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8444444"
+     inkscape:cx="90"
+     inkscape:cy="30"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5163">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5150"
+       transform="matrix(0.60127388,0,0,0.59746835,-0.040702,0.215584)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:24.95137787px;line-height:1.25;font-family:'Niagara Solid';-inkscape-font-specification:'Niagara Solid Condensed';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.77973056"
+         x="73.170799"
+         y="68.129784"
+         id="text5109"
+         transform="scale(1.4145461,0.70694054)"><tspan
+           sodipodi:role="line"
+           id="tspan5107"
+           x="73.170799"
+           y="68.129784"
+           style="fill:#ffff00;stroke-width:0.77973056">TopService</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.53389931px;line-height:1.25;font-family:'Old English Text MT';-inkscape-font-specification:'Old English Text MT';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.94004232"
+         x="49.510799"
+         y="69.989456"
+         id="text5113"
+         transform="scale(1.0742566,0.93087631)"><tspan
+           sodipodi:role="line"
+           id="tspan5111"
+           x="49.510799"
+           y="69.989456"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.53389931px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#ffff00;stroke-width:0.94004232">Все услуги в твоём кармане</tspan></text>
+      <path
+         style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.67309326;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:0.06730932, 0.06730932;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+         d="M 22.262559,91.154661 V 81.461865 H 11.457474 0.65238905 V 40.942797 0.42373044 H 139.21171 277.77103 V 10.752121 21.080509 h 11.12288 11.12289 V 60.963985 100.84746 H 161.13968 22.262559 Z M 293.02527,60.963985 V 27.118646 h -7.62712 -7.62712 V 54.290254 81.461865 H 153.67146 29.571881 v 6.673728 6.673728 H 161.29858 293.02527 Z M 22.262559,48.25212 V 21.080509 H 146.52103 270.77951 V 13.771187 6.4618648 H 139.21171 7.6439145 V 40.942797 75.42373 h 7.3093225 7.309322 z M 270.77951,51.271186 V 27.118646 H 150.17569 29.571881 V 51.271186 75.42373 H 150.17569 270.77951 Z"
+         id="path5119"
+         inkscape:connector-curvature="0" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot5152"
+         style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(1.3515064,0,0,1.3389831,0.2001852,-16.31356)"><flowRegion
+           id="flowRegion5154"><rect
+             id="rect5156"
+             width="1.9067796"
+             height="34.639832"
+             x="57.203388"
+             y="-25.211864" /></flowRegion><flowPara
+           id="flowPara5158" /></flowRoot>    </g>
+  </g>
+</svg>
